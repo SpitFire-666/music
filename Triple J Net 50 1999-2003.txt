@@ -1,3 +1,16 @@
+https://gist.github.com/initials/86e466ee84151fc930234e99564270ac
+
+$test = get-clipboard
+"title,artist" | out-file C:\Users\User\Desktop\test.csv ; $test | % {$_.Split(" - ")[1,0] -join(",") | out-file C:\Users\User\desktop\test.csv -Append}
+
+# Note: Diana Ah Naid is now Diana Anaid, Pacifier is now Shihad
+# Note: I'm assuming Tracky Dax - Wabba Lee Hero is two tracks
+# ? Not on Spotify
+# ! What is this song??
+
+# Formatted as Artist - Title
+
+
 (hed) P.E. - Bartender
 (hed) P.E. - Killing Time
 1 Giant Leap - My Culture (feat Robbie Williams & Maxi Jazz)
