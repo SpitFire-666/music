@@ -10,10 +10,10 @@ $test = get-clipboard
 
 # Formatted as Artist - Title
 
-
 (hed) P.E. - Bartender
 (hed) P.E. - Killing Time
 1 Giant Leap - My Culture (feat Robbie Williams & Maxi Jazz)
+1000 Clowns - (Not The) Greatest Rapper
 1200 Techniques - Hard As Hell
 1200 Techniques - Hard As Hell (Steroids Mix)
 1200 Techniques - Karma
@@ -22,7 +22,6 @@ $test = get-clipboard
 22 Jacks - Somewhere In Between
 28 Days - Deadly Like
 28 Days - Goodbye
-28 Days - Jasmine
 28 Days - Kool
 28 days - La Tune
 28 Days - Rip It Up
@@ -46,11 +45,12 @@ Abdoujaparov - Punk Confetti
 Adam Said Galore - Bent Like Christmas
 Add N To X - Take Me To Your Leader
 Afroman - Because I Got High
-Air - All I Need 
+Aguagefor - Trawl It
+Air - All I Need
 Air - Don't Be Light
 Air - Playground Love
 Air - Radio #1
-AIR - Today
+? AIR - Today
 Alabama 3 - Woke Up This Morning
 Alan Braxe/Fred Falke - Intro
 Alanis Morissette - 21 Things I Want in a Lover
@@ -67,6 +67,7 @@ Alien Ant Farm - Smooth Criminal
 Alpinestars - Carbon Kid
 Alpinestars - Snow Patrol Pt 1
 Amanda Ghost - Filthy Mind
+Amen - The Price Of Reality
 Analog - There She goes
 And You Will Know Us By The Trail Of Dead - Another Morning Stoner
 Andreas Johnson - Glorious
@@ -81,7 +82,7 @@ Antenna - Come On Spring
 Antiskeptic - Called
 Apollo 440 - Heart Go Boom
 Apollo 440 - Stop The Rock
-APT - Story
+! APT - Story
 Area 7 - Bitter words 
 Area 7 - Green Eggs and Ham 
 Area 7 - Himbo
@@ -96,7 +97,6 @@ Armand Van Helden - Full Moon
 Armand Van Helden - Little Black Spiders- 
 Armand Van Helden - Why Can't U Free Some Time
 Armand van Helden - You Don't Know Me
-Armand van Helden - You Don't Know Me
 Art Of Fighting - Give Me Tonight
 Art Of Fighting - Reasons Are All I Have Left
 Artful Dodger - Re-Rewind (The Crowd Say Bo Selecta)
@@ -105,6 +105,7 @@ Ash - Envy
 Ash - Jesus Says
 ASH - Numbskull
 Ash - Shining Light
+Asian Dub Foundation - New Way, New Life
 At The Drive In - Invalid Litter Dept.
 At The Drive In - One Armed Scissor
 Atticus - Lend Me An Ear
@@ -137,12 +138,13 @@ Badly Drawn Boy - Silent Sigh
 Badly Drawn Boy - Something To Talk About
 Badly Drawn Boy - The Shining
 Badly Drawn Boy - You Were Right
-Barber's Adagio For Strings - William Orbit
+William Orbit - Barber's Adagio For Strings
 Barenaked Ladies - One Week
 Basement Jaxx - Jus 1 Kiss
 Basement Jaxx - Red Alert
 Basement Jaxx - Rendez-vu
 Basement Jaxx - Where's Your Head At
+Baxtor Dury - Oscar Brown
 Beastie Boys - Alive
 Beastie Boys - Body Movin'
 Beastie Boys - Negotiation limerick file
@@ -153,10 +155,10 @@ Beck - Diamond Dogs
 Beck - Electric Music & Summer People
 Beck - Mixed Bizness
 Beck - Paper Tiger
-Beck - Tropicalia 
+Beck - Tropicalia
 Belle & Sebastian - Legal Man
 Ben Christophers - Leaving My Sorrow Behind
-Ben Christophers - Transatlantic Shooting Star - 
+Ben Christophers - Transatlantic Shooting Star
 Ben Folds Five - Army
 Ben Folds Five - Don't Change Your Plans
 Ben Folds Five - Song For The Dumped
@@ -228,12 +230,14 @@ Brassy - B'cos We Rock
 Brassy - Play Some D
 Brassy - Work It Out
 Breathe - Open Door
-Breathe - The Cult
+The Cult - Breathe
 Breeders - Huffer
 Brendan Benson - Folk Singer
 Brendan Benson - Tiny Spark
 Bright eyes - Lover I don't have to
 Brunatex - Monster
+BT - Mercury and Solace
+BT - Never Gonna Come Back Down
 Buckcherry - Lit Up
 Buffalo Tom - Rachael 
 Built To Spill - Center Of The Universe
@@ -261,7 +265,7 @@ Catatonia - Karaoke Queen
 Catatonia - Stone By Stone
 Celibate Rifles - I Shoulda
 Cevin Fisher - 2000 Freaks Come Out
-Chakradiva - Drive - 
+Chakradiva - Drive
 Charlatans - You're So Pretty
 Charlton Hill - 2's Company
 Chef - Simultaneous
@@ -272,6 +276,7 @@ Chemical Brothers - Out Of Control
 Chemical Brothers - Star Guitar
 Chicharrons N Boogaloo - Los Chicharrons
 Chicks On Speed - Euro Trash Girl
+Chilly Gonzales - Take Me To Broadway
 Chris Cornell - Can't Change Me
 Christine Anu - Come My Way
 Church - Louisiana
@@ -279,18 +284,22 @@ Cinnamon - Maybe In The Next Life
 Citizen King - Better Days
 Clinic - Walking With Thee
 Clinton - Button Down Disco
+Clinton - People Power in the Disco Hour
 Cog - Paris Texas
+Coldcut - Re:Volution
 Coldplay - Don't Panic
 Coldplay - Shiver
 Coldplay - Yellow
 Cooper Temple Clause - Let's Kill Music
 Cordrazine - I Never Cared Before
+Corduroy - Moshi Moshi
 Cornelius - Drop
 Cornershop - Lessons Learned From Rocky I to Rocky III
 Cornershop - Staging The Plaguing of the Raised Platform
 Cotton Mather - Camp Hill Rail Operator
 Counting Crows - Colorblind
 Cousteau - Talking To Myself
+Cowboy Junkies - Ooh Las Vegas
 Cracker - Shine
 Crash Test Dummies - Keep A Lid On Things
 Crazy Penis - There's A Better Place
@@ -307,6 +316,7 @@ Custard - Caboolture Speed Lab
 Custard - Girls Like That 
 Custard - Hit Song
 Cypress Hill - Rock Superstar
+D Henry Fenton - The Many Faces Of Esther
 Da Slammin Phrogz - Something About The Music
 Daft Punk - Harder Better Faster Stronger
 Daft Punk - One More Time
@@ -347,7 +357,7 @@ Death Cab For Cutie - Blacking Out The Friction
 Death In Vegas - Aisha
 Death In Vegas - Hands Around My Throat
 Deep Dish - Future Of The Future 
-Deepchild - For A Reason - 
+Deepchild - For A Reason
 Deepswing - In The Music
 Deftones - Change
 Delgados - Coming In From The Cold
@@ -356,6 +366,7 @@ Deltron 3030 - Time Keeps On Slipping
 Dempsey - Lil Poon Tang
 Depeche Mode - Dream On
 Depeche Mode - Freelove
+Derrick Carter - Square Dancing In A Round House
 Devoted Few - Invisible Birds
 Diana Anaid - Don't Believe In Love
 Diana Anaid - Love Song For A Girl
@@ -366,26 +377,30 @@ Dirty Vegas - Days Go By
 Dismemberment Plan - What Do You Want Me To Say
 Disturbed - Voices
 Divine Comedy - Bad Ambassador
+Division Of Laura Lee - Need To Get Some
 DJ Rap - Bad Girl
 DJ Shadow - Six Days
 DJ Vadim - Up To Jah
+DogBuoy - Mozzies
 Dolphin Boy - Don't Stop
 Doves - Catch The Sun
 Doves - The Cedar Room
 Doves - The Man Who Told Everything
 Doves - There Goes The Fear
 Downsyde - Gifted Life
+Dr Israel, Rancid - Coppers
 Drag - Take Me With You
 Drugstore - Sober
 Drumattic Twins - Feelin' Kinda Strange
 Dubtribe Sound System - Do It Now - 
 Dungeon Family - Trans DF Express
-Dzihan & Kamien - Smile - 
+Dzihan & Kamien - Smile
 Earthlink - Thunk
 Echoboy - Kit And Holly
 Ed Harcourt - Apple Of My Eye
 Ed Harcourt - Hanging With The Wrong Crowd 
 Ed Harcourt - She Fell Into My Arms
+Edan - Humble Magnificent
 Eels - Last Stop This Town 
 Eels - Mr E's Beautiful Blues
 Eels - Souljacker
@@ -556,6 +571,7 @@ Gomez - Machismo
 Gomez - Shot Shot
 Gomez - We Haven't Turned Around
 Gone To Earth - Kill Flowers
+Gone To Earth - Mildred's Modern Way
 Good Buddha - Harry Told Me
 Good Buddha - Ultrasound
 Good Charlotte - Little Things
@@ -601,8 +617,9 @@ Gus Gus - Ladyshave
 Guttermouth - She's Got The Look
 Güven - Sugarfiend
 Halogen - Walkaway
+Hamish - Life Song
 Happyland - Hello !
-Hardcore Superstar - Someone Special - 
+Hardcore Superstar - Someone Special
 Hardknox - Come In Hard
 Harvey Danger - Flagpole Sitta
 Hellacopters - Hopeless Case Of A Kid In Denial
@@ -614,8 +631,11 @@ Hooligan - Embrace
 Hooverphonic - Mad About You
 Horsehead - She Fell To Earth 
 Hot Hot Heat - Bandages
+Huffamoose - My Dad's New Hit Song
 Hysteric Ego - time to get back
+Ian Brown - F.E.A.R
 Ian Brown - Gravy Train
+Ian Dury, The Blockheads - Dance Little Rude Boy
 Ian Pooley - Coracao Tambor
 ICE-T - Power
 Icecream Hands - Beautiful Fields
@@ -629,8 +649,10 @@ Idlewild - Little Discourage
 Idlewild - Roseability
 Idlewild - You Held The World In Your Arms
 Iggy Pop - Mask
+Imperial Teen - Ivanka
 Incubus - Drive
 Infusion - My Name Is Radar
+iNsuRge - I hate stupid people
 Insurge - Images Of London
 International Noise Conspiracy - Smash It Up
 International Noise Conspiracy - Up For Sale
@@ -640,7 +662,7 @@ iOTA - Melbourne Summer
 Iota - Million Miles
 Itch-e & Scratch-e - Princess Universe
 Jacknife Lee - Aloha Satellite
-jacknife lee - Bursting off the backbeat
+jacknife Lee - Bursting off the backbeat
 Jacknife Lee - Cookies
 Jacknife Lee - Easy
 Jakatta - American Dream
@@ -702,6 +724,7 @@ Kent - Music Non Stop
 Kid Rock - Bawitdaba
 Kid Rock - Cowboy
 Kid Rock - Forever
+Kiley Gaffney - Midas
 Killing Heidi - Leave Me Alone
 Killing Heidi - Mascara
 Killing Heidi - Outside Of Me
@@ -721,6 +744,7 @@ Klinger - Acne And Peroxide
 Klinger - Ben Lee
 Klinger - Hello Cruel World
 Klinger - Sayonara Anyway
+Knievel - Are You Still Making Progress
 Knievel - Chance Meeting
 Knievel - Don't Explain
 Kojak - Stupid Jack
@@ -733,7 +757,7 @@ Korn - Make Me Bad
 Kosheen - Hide U
 Kottonmouth Kings - Bump
 Kula Shaker - Mystical Machine Gun
-L'More - Takin' Hold - 
+L'More - Takin' Hold
 La La La - Brad
 Ladytron - Another Breakfast With You
 Ladytron - Took Her To A Movie
@@ -745,6 +769,7 @@ Lash - Beauty Queen
 Lash - Don't Ever Make My Mind Up
 Lash - Take Me Away
 Last Days Of April - Aspirins And Alcohol
+Laurent Garnier - The Man With The Red Face
 Lavaland - Everwonder
 Lavaland - Wired
 Lazy Susan - Bobby Fischer
@@ -760,6 +785,7 @@ Les Rythmes Digitales - Jacques Your Body
 LHB - Everybody Sees It On My Face
 Liars - Mr You On Fire?
 Libido - Overthrown
+Life Without Buildings - New Town
 Limp Bizkit - Break Stuff
 Limp Bizkit - Faith
 Limp Bizkit - My Generation
@@ -776,7 +802,7 @@ Liquid - Over
 Liquido - Narcotic
 Liquido - Play Some Rock
 Lisa 'Lefteye' Lopez - Block Party
-Lisahall - Connection 17 
+Lisahall - Connection 17
 Living End - All Torn Down
 Living End - Dirty Man
 Living End - Have They Forgotten
@@ -785,14 +811,15 @@ Living End - Save The Day
 Liz Phair - Polyester Bride
 Llama Farmers - Yellow
 Lo Fidelity Allstars - Battleflag 
-Lo-Tel - Teenager Of The Year
 Lo-Tel - A Pop Song Saved My Life
 Lo-Tel - Crucifix
 Lo-Tel - Hudson NY
+Lo-Tel - Teenager Of The Year
 Local H - All The Kids Are Right 
 Loki - Not Like You
 Long Beach Dub Allstars - Sunny Hours
 Los Chicharrons - The Feeling's Right
+Lou Reed - Catch 'Em In The Act
 Lovetones - Give It All I Can
 Luke Vibert, BJ Cole - Swing Lite
 Lupine Howl - Vaporizer
@@ -817,6 +844,7 @@ Magic Dirt - Pace It
 Manic Street Preachers - Found That Soul
 Manic Street Preachers - If You Tolerate This ..
 Manic Street Preachers - So Why So Sad
+Manu Chao - Merry Blues
 Maple - Without
 Marcy Playground - Comin' Up From Behind
 Marcy Playground - Poppies
@@ -826,6 +854,7 @@ Marilyn Manson - Disposable Teens
 Marilyn Manson - I don't like the drugs (but the drugs like me)
 Marilyn Manson - Tainted Love 
 Mark b, Blade - From The World Lab
+Mark Moulin - Into The Dark
 Mark Of Cain - Retaliate
 Marvelous 3 - Freak Of The Week
 Mass MC/MC Thorn - The BBQ Song
@@ -836,6 +865,7 @@ Maxim - Carmen Queasy
 MC Honky - 3 Turntables & 2 Microphones
 MC Honky - The Devil Went Down To Silverlake
 MC Paul Barman - Cock Mobster
+McLusky - To Hell With Good Intentions
 Me First & the Gimme Gimmes - Don't Cry For Me Argentina
 Mekon - What's Goin' On
 Mental As Anything - Fine Line
@@ -853,7 +883,8 @@ Mex - In A Way (feat Naomi Bedford)
 Michael Franti and Spearhead - Sometimes
 Michael Franti/Spearhead - Rock The Nation
 Mick Hart - Sunlight
-Mick Hart - Still The Flowers Bloom - Chilly Gonzales - Take Me To Broadway
+Michael Hutchence - A Straight Line
+Mick Hart - Still The Flowers Bloom
 Midnight Oil - Golden Age
 Midnight Oil - Say Your Prayers
 Millencolin - Fox
@@ -871,6 +902,7 @@ Missy Elliott - Work It
 MJ Cole - Crazy Love
 MJ Cole - Sincere
 Mo Horizons - Do The Boogaloo
+Moa - Memory Cloud
 Moby - Extreme Ways
 Moby - Porcelain
 Moby - Why Does My Heart Feel So Bad
@@ -912,6 +944,7 @@ MXPX - I'm ok, your'e ok
 MXPX - Responsibility
 Mystikal - Shake Ya Ass
 Nada Surf - Why Are You So Mean To Me
+Nahawa Doumbia - Yankaw
 Naughty By Nature - Holiday
 Neil Finn - Loose Tongue (live)
 Neil Finn - Rest Of The Day Off
@@ -930,8 +963,9 @@ Nick Cave & The Bad Seeds - Love Letter
 Night - Morphine
 Nightmares On Wax - Environment
 Nightmares On Wax - Know My Name
+Nikka Costa - Like A Feather
 Nine Inch Nails - Deep
-Nine Inch Nails - Into The Void - Nine
+Nine Inch Nails - Into The Void
 Nine Inch Nails - The Day The World Went Away
 Nine Inch Nails - We're In This Together
 Nirvana - You Know You're Right
@@ -959,27 +993,35 @@ Oasis - Go Let It Out
 Oasis - Hindu Times
 Oasis - Little By Little
 Oasis - Stop Crying Your Heart Out
-Oblivia - Collapse On Me - 
+Oblivia - Collapse On Me
+Oblivia - Mindbomb
+Oblivia - My Friend
+Ocsarlima - If You Wanna Be My Friend
+Offcuts - Hips
 Offspring - Defy You
 Offspring - Pretty Fly 
 Offspring - The Kids Aren't Alright
 Offspring - Want You Bad
 Oleander - Why I'm Here
 On Inc - Silver Girl Shuffle
+One Dimension - Simian
 One Dollar Short - 10 Years
-One Dollar Short - Board Game - 
-One Dollar Short - Is This The Part - 
-One Dollar Short - Satellite - OPM - El Capitan - 
+One Dollar Short - Board Game
+One Dollar Short - Is This The Part
+One Dollar Short - Satellite
+OPM - El Capitan
 OPM - Heaven is a Halfpipe
 OPM - Stash Up
 Orange Humble Band - Down In Your Dreams
 Orgy - Blue Monday
 Oscarlima - Either Way
 Oscarlima - Sell It To The World
-Oscarlima - Things That You Say - 
+Oscarlima - Things That You Say
 Oscarlima - Who Likes The Sun
 Outkast - Ms Jackson 
 Outkast - So Fresh So Clean
+Oysterhead - Mr Oysterhead
+P. Diddy - Bad Boy for Life
 Pacifier - Run
 Palladium - Good Girl
 Palladium - Hoarsey
@@ -990,39 +1032,44 @@ Patti Smith - Glitter In Their Eyes
 Patti Smith - When Doves Cry
 Paul Kelly - Every Fuckin City
 Paul Kelly - Love Is The Law
+Paul Kelly - Roll On Summer
 Paul Kelly - Somewhere In The City
 Paul Mac - Just The Thing
-Paul Oakenfold - Ready Steady Go - 
+Paul Oakenfold - Ready Steady Go
 Paul Weller - Written In Stars
-Pavement - Spit On A Stranger - 
-Peaches - Rock Show - 
-Peaches - Set It Off - 
+Pavement - Spit On A Stranger
+Peaches - Rock Show
+Peaches - Set It Off
 Pearl Jam - Breakerfall
 Pearl Jam - Do The Evolution
-Pearl Jam - I Am Mine - 
-Pearl Jam - Last Kiss - 
-Pearl Jam - Nothing As It Seems - 
+Pearl Jam - I Am Mine
+Pearl Jam - Last Kiss
+Pearl Jam - Nothing As It Seems
 Pennywise - Alien
-Pennywise - Divine Intervention- 
+Pennywise - Divine Intervention
 Pennywise - Down Under
-Pennywise - Fuck Authority - 
-Pennywise - Victim Of Reality - 
-Pepe Deluxe - Before You Leave - 
+Pennywise - Fuck Authority
+Pennywise - Victim Of Reality
+Pepe Deluxe - Before You Leave
+Peplab - Ride The Pony
 Pernice Brothers - Bryte Side
 Perry Farrell - Whole Lotta Love
 Persian Rugs - Here She Comes
-Pete Murray - Lines - 
+Pete Murray - Lines
+Pfilbryte - Merry-Go-Round
 Phantom Planet - Lonely Day
-Philippa Nihill - All I Have - 
-Phoenix - Too Young - 
+Phil Fuldner Works #2 - Miami Pop
+Philippa Nihill - All I Have
+Phoenix - Too Young
 Pitchshifter - Genius
 PJ Harvey - A Perfect Day Elise
 PJ Harvey - Good Fortune
+PJ Harvey - Hitting The Ground
 Placebo  - You Don't Care About Us - 
 Placebo & David Bowie - Without You I'm Nothing
 Placebo - Every You Every Me
 Placebo - Pure Morning
-Placebo - Slave To The Wage - 
+Placebo - Slave To The Wage
 Placebo - Special K
 Placebo - Taste In Men
 Placebo - You Don't Care About Us 
@@ -1032,7 +1079,8 @@ Plastilina Mosh - Monster Truck
 Playgroup - Number One
 Playgroup - Number One
 Pollen - Lazy Sundays Easy Mondays
-Pollyanna - Cinnamon Lip 
+Pollen - Not Rocket Science
+Pollyanna - Cinnamon Lip
 Pollyanna - Hermit Inertia
 Porkers - Perfect Teeth
 Porkers - Too Big For Your Boots
@@ -1052,12 +1100,12 @@ Pre.Shrunk - Bestseller
 Pre.Shrunk - Frogga Boogaga - 
 Pre.Shrunk - Gamer - 
 Pre.Shrunk - Kite
-Preston School Of Industry - Falling Away - 
-Pretty Violent Stain - If The Money's Right - 
-Pretty Violet Stain - Never Come Down - 
+Preston School Of Industry - Falling Away
+Pretty Violent Stain - If The Money's Right
+Pretty Violet Stain - Never Come Down
 Pretty Violet Stain - Talk
-Primal Scream - Kill All Hippies - 
-Primal Scream - Swastika Eyes - 
+Primal Scream - Kill All Hippies
+Primal Scream - Swastika Eyes
 Primary - In Your Hands
 Primary - Love Is A Fool
 Primary - Not For Me
@@ -1069,18 +1117,21 @@ Propellerheads - Crash
 Public Enemy - Give The Peeps What They Need
 Public Enemy - Son Of A Bush
 Public Image Limited - Order Of Death
-Puddle Of Mud - Control
 Puddle of Mudd - Blurry
+Puddle Of Mudd - Control
 Pulp - Party Hard
 Pulp - The Trees
 Quannum - I Changed My Mind
+Quarashi - Mr Jinx
 Quarashi - Stick 'Em Up
+Queenadreena - Pretty Like Drugs
 Queens Of The Stone age - Feel Good Hit Of The Summer
 Queens Of The Stone Age - Lost Art Of Keeping A Secret
 Queens Of The Stone age - No One Knows
 R.L. Burnside - Bad Luck City
 R.L. Burnside - It's Bad You Know
 R.L. Burnside - Let My Baby Ride
+Radio 4 - Our Town
 Radiohead - Everything In Its Right Place
 Radiohead - Kid A
 Radiohead - Knives Out
@@ -1088,7 +1139,7 @@ Radiohead - Optimistic
 Radiohead - Pyramid Song
 Rage Against The Machine - Guerilla Radio
 Rage Against The Machine - Maria - 
-Rage Against The Machine - Renegades Of Funk - 
+Rage Against The Machine - Renegades Of Funk
 Rage Against The Machine - Sleep Now In The Fire
 Rahzel - All I Know
 Rammstein - Asche zu Asche
@@ -1100,7 +1151,8 @@ Rancid - Life Won't Wait
 Ratcat, John Paul Young - I Hate The Music
 Raven Maize - Fascinated
 Red Hot Chili Peppers - Scar Tissue
-Red Hot Chili Peppers - The Zephyr Song - 
+Red Hot Chili Peppers - The Zephyr Song
+Redletter - Oberon
 Reef - I've got something to say
 Reef - New Bird
 Reef - Set The Record Straight
@@ -1115,6 +1167,7 @@ Regurgitator - Fat Cop
 Regurgitator - Freshmint
 Regurgitator - Happiness
 Regurgitator - Hullabaloo
+Regurgitator - I will lick your asshole
 Reindeer Section - You Are My Joy
 REM - Daysleeper
 REM - Imitation Of Life
@@ -1128,15 +1181,15 @@ Rhibosome - Impulse
 Rhibosome - Walkin'
 Rhubarb - Exerciser
 Rhubarb - Light On Your Shoulder
-Rhubarb - Nice Girls - 
-Rhubarb - Slow Motion - 
-Richard Ashcroft - A Song For Lovers - 
-Richard Ashcroft - Check The Meaning - 
+Rhubarb - Nice Girls
+Rhubarb - Slow Motion
+Richard Ashcroft - A Song For Lovers
+Richard Ashcroft - Check The Meaning
 Richard Ashcroft - Money To Burn
-Richard Ashcroft - New York - 
-Rinocerose - In Rock - 
+Richard Ashcroft - New York
+Rinocerose - In Rock
 Rise - The Cult
-Rival Schools - Used For Glue - 
+Rival Schools - Used For Glue
 Rob Zombie - Dragula
 Rob Zombie - Feel So Numb
 Rocket From The Crypt - Heads Are Gonna Roll
@@ -1147,6 +1200,7 @@ Rocket Science - Run Like A Gun
 Roger Goode - In The Beginning
 Roger Sanchez - Another Chance
 Rollerball - Jonothan E 
+Rollerball - Lifetime
 Rollins Band - Your Number Is One
 Roni Size - Dirty Beats
 Roots Manuva - Dreamy Days
@@ -1158,25 +1212,27 @@ Run DMC - Rock Show
 Ryan Adams - Enemy Fire
 Ryan Adams - New York New York
 Saint Etienne - Action
-Saint Etienne - Bad Photographer
 Saint Etienne - Boy Is Crying
 Saint Etienne - Heart Failed In The Back Of A Taxi
+Saint Etienne - The Bad Photographer
 Salmonella Dub - Problems
+Sandwiches - Detroit Grand Pubahs
 Sarah Blasko - Your Way
 Satoshi Tomiie - Love In Traffic
 Satoshi Tomiie - Up In Flames
 Say - Creatures
 Scott Grooves - Mothership Reconnection
 Screamfeeder - Above The Dove
-Screamfeeder - Hit the Sky - 
+Screamfeeder - Hit the Sky
 Screamfeeder - Triple Hook 
 Seafood - Cloaking
+SeaLifePark - Like Ships
 Sebadoh - Flame
 Seraphs Coal - Hope Is Where The Heart Is
 Sevendust - Licking Crème
-Sevendust - Live Again - 
-Sevendust - Praise - 
-Sevendust - Waffle - 
+Sevendust - Live Again
+Sevendust - Praise
+Sevendust - Waffle
 Sex, Accordeon et Alcool - Java
 Shane Nicholson - Designed To Fade
 Shihad - Blue Light Disco
@@ -1184,6 +1240,7 @@ Shihad - Interconnect
 Shihad - My Mind's Sedate
 Shihad - Pacifier
 Shivaree - Goodnight Moon
+Showbag! - Never Get There
 Shutterspeed - Come Out Swingin'
 Shutterspeed - Good Little Monkey
 SIA - Taken For Granted
@@ -1200,6 +1257,7 @@ silverchair - The Lever
 Silverchair - Without You
 Sinead O'Connor - Jealous
 Sinead O'Connor - No Man's Woman
+Six By Seven - I O U Love
 Skulker - Bittersweet
 Skulker - Hej
 Skulker - Naughty
@@ -1232,7 +1290,7 @@ Snap to Zero - Beats Is A Drug
 Sneaker Pimps - Low Five
 Sneaker Pimps - Sick
 Snout - Get In The Car
-Sobriquet  - Friday Mornings
+Sobriquet - Friday Mornings
 Something for Kate - Astronaut
 Something For Kate - Beautiful Sharks
 Something for kate - Electricity
@@ -1272,29 +1330,33 @@ Spiderbait - Outta My Head
 Spiderbait - Plastic
 Spiderbait - Shazam
 Spiderbait - Stevie 
+Spiller - Cry Baby
 Spiller - Groovejet
 Spineshank - Synthetic
 Splendid - Less Than Zero
 Spoon - The Way We Get
 Sprung Monkey - American Made
 Sprung Monkey - Greta
+Squarepusher - My Red Hot Car
 St Germain - Sure Thing - 
-Stabbing Westward - Save Yourself 
+Stabbing Westward - Save Yourself
 Starsailor - Fever - 
 Starsailor - Poor Misguided Fool
 Static-X - Cold
 Stellar - What You Do
 Stereo MC's - Deep Down & Dirty
 Stereophonics - Bartender & The Thief 
+Stereophonics - Maybe Tomorrow
 Stereophonics - The Writer
 Stetsasonic - Talkin all that jazz
 Stone Temple Pilots - Sour Girl
 Strokes - Hard To Explain
 Suede - Electricity
 Suede - Positivity
-Suede - She's In Fashion - 
+Suede - She's In Fashion
 Sugababes - Overload
 Sugar Ray - Every Morning
+Sugarmoth - Morgan's Just A Friend
 Suggs - I am
 Sum 41 - Fat Lip
 Sum 41 - In Too Deep
@@ -1302,7 +1364,7 @@ Sunk Loto - Make You Feel
 Sunk Loto - Sunken Eyes
 Sunk Loto - Vinegar Stroke
 Super Furry Animals - The Man Don't Give A F***
-Supergrass - Grace -
+Supergrass - Grace
 Supergrass - Mary
 Supergrass - Moving
 Supergrass - Pumping On Your Stereo
@@ -1321,16 +1383,16 @@ System Of A Down - Innervision
 System Of A Down - Toxicity
 Tadpole - Better Days
 Talisman P, Meets Barrington Levy - Here I Come (Sing DJ)
-Talvin Singh - The Beat Goes On - 
+Talvin Singh - The Beat Goes On
 Taxiride - Get Set
 Tea Party - Heaven Coming Down
 Tea Party - Lullaby
 Tea Party - Touch
-Tea Party - Walking Wounded - 
-Teenage Fanclub - Near To You - 
+Tea Party - Walking Wounded
+Teenage Fanclub - Near To You
 Telepopmusik - Animal Man
-Telepopmusik - Breathe - 
-Tenants - Pub Girl - 
+Telepopmusik - Breathe
+Tenants - Pub Girl
 Tenants - You Shit me to Tears
 Terranova - Chase
 Testeagles - Friends
@@ -1342,12 +1404,14 @@ The Anyones - Come Around
 The Anyones - Got My Mind
 The Anyones - Green Cats Eye
 The Ataris - Teenage Riot
+The Beautiful Girls - Periscopes
 The Bees - A Minha Menina
 The Brand New Heavies - Saturday Nite
 The Breeders - Son Of Three
 The Brian Jonestown Massacre - Let Me Stand Next To Your Flower
 The Butterfly Effect - Crave
 The Butterfly Effect - The Cell
+The Cassanovas - Nasty
 The Coral - Goodbye
 The Cure - Cut Here
 The Cure - Just Say Yes
@@ -1363,17 +1427,19 @@ The Drugs - Metal Vs Hip Hop
 The Drugs - The Bold And The Beautiful
 The Egg - Getting Away With It
 The Faint - Agenda Suicide - 
-The Fauves - Good Times Coming - 
-The Fauves - Ticket To The Big Time - 
-The Fergusons - Waste Of Time - 
+The Fauves - Good Times Coming
+The Fauves - Ticket To The Big Time
+The Fergusons - Waste Of Time
 The Get Up Kids - Action & Action
 The Herbaliser - Good Girl Gone Bad
+The Herbaliser - Missing Suitcase
 The Herd - 20 Leopards
 The Herd - Scallops
 The Hired Guns - Loose Change
 The Hives - Die All Right
 The Hives - Hate To Say
 The Libertines - Horror Show
+The Limp Twins - Moving Closer To The Sofa
 The Living End - Pictures In The Mirror
 The Living End - Roll On
 The Living End - What Would You Do
@@ -1393,26 +1459,28 @@ The Ones - Flawless
 The Panics - Give Me Some Good Luck
 The Panics - This Day Last Year
 The Porkers - Keep My Cool
-The Porkers - Perfect Teeth 
+The Porkers - Perfect Teeth
 The Promise Ring - Stop Playing Guitar 
+The Screaming Jets - Individuality
+The Shining - I Wonder How
 The Shins - New Slang - 
 The Sound And The Fury - The Lovetones
 The Stalkers - Godzilla Attacks
-The Streets - Don't Mug Yourself - 
+The Streets - Don't Mug Yourself
 The Streets - Has It Come To This?
-The Strike Boys - Dope - 
-The Strokes - Last Nite - 
-The Superjesus - Gravity - 
-The Superjesus - Secret Agent Man - 
-The Tenants - Boredom - 
+The Strike Boys - Dope
+The Strokes - Last Nite
+The Superjesus - Gravity
+The Superjesus - Secret Agent Man
+The Tenants - Boredom
 The Test - Chemical Brothers
 The The - Shrunkenman
 The Vandals - Behind The Music
-The Vines - Get Free - 
+The Vines - Get Free
 The Vines - Highly Evolved
-The Vines - Outtathaway - 
-The Vines - Sunshinin - 
-The Waifs - Lies - 
+The Vines - Outtathaway
+The Vines - Sunshinin
+The Waifs - Lies
 The White Stripes - Dead Leaves And The Dirty Ground
 The White Stripes - Fell In Love With A Girl
 The Whitlams - Best Work
@@ -1427,6 +1495,7 @@ They Might Be Giants - Man It's Loud In Here
 Thievery Corporation - The Mirror Conspiracy
 Thievery Corporation - The Richest Man In Babylon
 Thirteen - Cupid
+Those Bastard Souls - The Train From Terminal Boredom
 Tim Deluxe - It Just Won't Do
 Tim Rogers & The Twin Set - Last Nite I Left My Heart All Over The Place
 Timo Maas - Help Me
@@ -1441,6 +1510,7 @@ Titanics - Set The Controls
 To Earth With Love - Gay Dad
 Tom Tom Club - Happiness Can't Buy Money
 Tony Touch - I Wonder Why He's The Greatest DJ
+Too Hard To Be Free - Amen
 Tool - Lateralus
 Tool - Parabola
 Tool - Part Of Me
@@ -1453,6 +1523,7 @@ Tracky Dax - Lee Hero
 Tracky Dax - Sunshine
 Tracky Dax - Wabba
 Tragically Hip - Poets
+Tres Tres Chic - Mocean Worker
 Tucker B's - Brown Dog
 Tumbleweed - Glow In The Dark
 Tumbleweed - Planet Of The Weeds
@@ -1460,6 +1531,7 @@ Turin Brakes - Emergency 72
 Turin Brakes - The Door
 Turin Brakes - Underdog
 Turnstyle - I'm A Bus
+Turnstyle - Purple Crown
 Turnstyle - Spray Water On The Stereo
 Tweet - Oops (Oh My My)
 U2 - Beautiful Day
@@ -1469,6 +1541,7 @@ U2 - Stuck In A Moment You Can't Get Out Of
 U2 - Sweetest Thing
 U2 - The Ground Beneath Her Feet
 Ubin - My Sharona
+Ugly Casanova - Parasites
 Ugly Duckling - Eye On The Gold Chain
 Underminers - Let's Get T-shirts Made
 Underworld - 2 Months Off
@@ -1481,7 +1554,7 @@ Unwritten Law - Lonesome
 Unwritten law - Seein' Red
 Unwritten Law - Up All Night
 Urban Species - I Wonder 
-Us3 - You Can't Hold Me Down - 
+Us3 - You Can't Hold Me Down
 Utah Saints - Power To The Beats
 VAST - Free
 Vast - Touched
@@ -1495,9 +1568,9 @@ Vivid - Electronic
 Waikiki - Here Comes September
 Waikiki - Lucky
 Waikiki - New Technology
+Warped - Strichnine Girl
 Warped - This Is The Sound
 Watchmen - Stereo
-Watchmen - Stereo - 
 Way Out West - Intensify
 Webb Brothers - Summer People
 Webster - High Timin'
@@ -1514,6 +1587,7 @@ Wheat - Don't I Hold you
 Wheatus - Leroy
 Wheatus - Teenage Dirtbag
 Wicked Beat Sound System - Do The Things
+Wicked Beat Sound System - I Don't Wanna Know
 Wicked Beat Sound System - I Want To 
 Wilco - Heavy Metal Drummer
 Wild Strawberries - Mirror Mirror
@@ -1538,183 +1612,83 @@ Youth Group - Guilty
 Youth Group - I Don't Care
 Zed - Renegade Fighter
 Zephyr Timbre - Abstract Fusion
-Offcuts - Hips
-Edan - Humble Magnificent
-The Beautiful Girls - Periscopes
-Six By Seven - I O U Love
-Ian Brown - F.E.A.R
-Ian Dury, The Blockheads - Dance Little Rude Boy
-Imperial Teen - Ivanka
-Knievel - Are You Still Making Progress
-Laurent Garnier - The Man With The Red Face
-Pollen - Not Rocket Science
-Paul Kelly - Roll On Summer
-PJ Harvey - Hitting The Ground
-Regurgitator - I will lick your asshole
-Tres Tres Chic - Mocean Worker
-The Screaming Jets - Individuality
-Warped - Strichnine Girl
+Fur Patrol - Now
+Rollerskates - Polyether 1944
+Gorky's Zygotic Mynci - Poodle Rockin'
+Photek - Six Feet Under Theme
+Turnstyle - Portamento
+Fourth Floor Collapse - Primary School
+Song Of Sorrow - Tim Oxley
+Muzzy Pep - One 85
+Muzzy Pep - Made From Concentrate
+The Resheads - Combover
+Genshen - Nothing Quite Like This
+Salmonella Dub - Platetectonics
+Nigo - Free Diving
+Nine Inch Nails - Starfuckers, Inc
+Luke Slater - Nothing At All
+Welter - Nothing I Ever Do
+Offcuts - Back To The Music
+Marc Moulin - Organ
+Pierre Henry, Michel Colombier - Psyche Rock
+Raven Maize - The Real Life
+Sean Sennet - Lost And Found
+Sunday's Best - Saccharine
+Halogen - On A Bridge
+Soulwax - Conversation Intercom
+Spooks - Things I've Seen
+Beat boy - Roof Is On Fire
+Afro Medusa - Pasilda
+Paul Mac - Heatseeking Pleasure Machine (feat. Tex Perkins)
+The Porkers - Waiting For Us (Salmonella Dub mix)
+Wicked Beat Sound System - Brand New Day (Remix)
+Automatic - Psychic Cats
+Quro - The Drugs They Sell Friends
+London Elektricity - Pull The Plug
+Ferry Corstan - Punk
+The Mutton Birds - Pulled Along By Love
+Gripper - The Joint
+Dreadnaught - Pushed To The Limit
 
 !!!!!!!!!!!!!!!!! Tracks that haven't been searched on Spotify yet !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 
-Leftfield Vs. Fatboy Slim - Planet Of The Phatbird
-Letters In The Mail - Just Add Water
-Life Song - Hamish
-Lifetime - Rollerball
-Like A Feather - Nikka Costa
-Like Ships - Sea Life Park
-Lino - Accident
-Loath - Three Rounds Shy
-Lou Reed - Catch 'Em In The Act
-Love Tattoo - Bass Has Got Me Movin'
-Love Tattoo - Drop Some Drums
-Many Faces Of Esther - D Henry Fenton
-Mark Moulin - Into The Dark
-Matt Walker - Don't Need Sunshine - 
-Maya Jupiter - Ordinary Night
-Maybe Tomorrow - Cure
-McClusky - To Hell With Good Intentions
-Melvin Starr - Dandelion
-Memory Cloud - MOA
-Mercury & Solace - BT
-Merry Blues - Manu Chao
-Miami Pop - Phil Fuldner Works #2
-Michael Hutchence - Strait Line
-Midas - Kiley Gaffney
-Mildred's Modern Way - Gone To Earth
-Mind Bomb - Oblivia
-Mirror - Kaleidiscope
-Missing Suitcase - Herbaliser
-Momentary Blindness - Honeyfix
-Pound System - More Than You Need
-Morgan's Just A Friend - Sugarmoth
-Moshi Moshi - Corduroy
-Mountain Of Snow - Fez Perez
-Moving Closer To The Sofa - Limp Twins
-Mozzies - DogBuoy
-Mr Oysterhead - Oysterhead
-Mr. Record Player - Glockenspeil
-Muzzy Pep - 185
-Muzzy Pep - Made From Concrete
-My Dad's New Hit Song - Huffamoose
-My Friend - Oblivia
-My Red Hot Car - Squarepusher
-Nancy Vandal - Clean Out Your Desk
-Nash - 100 Million Ways
-Nasty - The Cassanovas
-Need To Get Some - Division Of Laura Lee
-Never Get There - Show Bag
-Never Gonna Come back Down - BT
-New Boy - Christ Art Museum
-New Town - Life Without Buildings
-New Way New Life - Asian Dub Foundation
-New Years Dub - Musique Vs U2
-Nigo Feat Ben Lee - Free Diving - 
-Nine Inch Nails - Starf@#kers Inc
-Not Happy Birthday Again - Hubris
-Not Like You - Loki 
-Not The Greatest Rapper - 1000 Clowns
-Nothing At All - Luke Slater
-Nothing I Ever Do - Welter
-Nothing Quite Like This - Genshen
-Now - Fur Patrol
-Nubreed - Sleeping With The Enemy - 
-Oberon - Redletter
-Ocsarlima - If You Wanna Be My Friend
-Offcuts - Back To The Music - 
-On A Bridge - Halogen
-On A Journey - Arganaughts
-One Dimension - Simian
-Ooh Las Vagas - Cowboy Junkies
-Orbital - Uma
-Organ - Marc Moulin
+
+
+
 Orgy - Blue Monday (LIVE)
-Oscar Brown - Baxtor Dury
-Our Town - Radio 4
-Ozomatli - Give It To The Fuckin' DJ
-P. Diddy - Bad Boy For Life
-Parasite - Ugly Casanova
-Pasilda - Afro Medusa
-Paul Kelly - Woomera Song
-Paul Mac/Tex Perkins - Heatseeking Pleasure
-Pennidredful - Flipsider
-Pennidredful - The Ping Pong Delegate
-People Power - Clinton
-Peppercorn - Grimace
-Peter Helliar & Gatesy from Tripod - Bevan (the Musical)
-Pfilbryte - Merry-Go-Round
-Photek - Six Feet Under
-? PJ Harvey - Kamikaze
-? Plasticine - Evel Knievel
-Pollyanna - Particular People
-Pollyanna - Rebound Girl
-Polyether - Rollerskates
-Poodle Rockin' - Gorky's Zygotic Mynci
-Poor Circle - Machine Translations
-Porkers vs Salmonella Dub - Waiting For Us
-Portamento - Turnstyle
-Pre.Shrunk - Soundpimp
-Pretty Like Drugs - Queen Adreena
-Primary - Brazilian
-Primary School - Fourth Floor Collapse
-Primus/Ozzy Ozbourne - N.I.B
-Psyche Rock - Pierre & Michel
-Psychic Cats - Automatic
-PTB - Centipede
-Pull The Plug - London Electricity
-Pulled Along By Love - The Mutton Birds
-Punk - Ferry Corstan
-Puppy Phat - Lime
-Turnstyle - Purple Crown
-Pushed To The Limit - Dreadnaught
-Quarishi - Mr Jinx - 
+? Paul Kelly - The Woomera Song
+? Peter Helliar & Gatesy from Tripod - Bevan (the Musical)
+? Primary - Brazilian
+? Primus - N.I.B (with Ozzy Osbourne)
+? Centipede - PTB
+? Lime - Puppyphat
 Quicksilver - The Shining
-Quro - The Drugs They Sell Friends
-Rancid V's Dr Israel - Coppers
-Rebecca's Empire - Bad Blood
-Rebecca's Empire - Big Smoke
-Rebecca's Empire - Medicine Man
-Recharge - Crazy Baldheads
-Red Rocket - Fast Trains
 Regurgitator - I Like Your Old Stuff (remix)
-Resin Dogs - Nice Mics
-Resin Dogs - Say Yeah
-Revolution - Cold Cut
 Rhyme Flowin' - Gripper
-Ride The Pony - Peplab
 Rivers And Rainbows - Gripper
 Rob Snarski & Dan Luscombe - Feelings for a woman, Feelings for a Man
 Rollins Band - Illumination
 Romance - Further
-Roof Is On Fire - Beat boy
 Room To Run - Amen
 Rose Smith - Getting Away With It
 Roudoudou - Peace And Tranquility On Earth
 Ruck Rover - Thornbury - 
 S.D.C. - Superdense Child
-Saccharine - Sunday's Best
-Said And Done - Mayfly
-Salmonella Dub - Platetectonics
+! Said And Done - Mayfly
 Salmonella Dub - Push On Through
-Sandwiches - Detroit Grand Pu Bahs
-Sean Sennet - Lost And Found
 Sister Surround - Soundtrack Of Our Lives
 Size Does Matter - On Inc
 Sky Chaser - Forte
 Slacker - Tech 9
 Slam Harder - Onyx
 Sneak - Feel Like I Do
-Song Of Sorrow - Tim Oxley
 Soul Fiesta - Manu Dibango
-Soul Wax - Conversation Intercom - 
 Sounds Like Sunset - Each Time You Smile
 Space Raiders - I Need The Disco Doctor
 Spaced Invader - Hativas/Slarta John
 Spike - Infusion
-Spiller - Cry Baby
 Spiritualized - Finley Quaye
-Square Dancing In A Round House - Derrick Carter
 Squash That Fly - Fu Manchu
 State Of Mind - Oscillate
 Static - Probe
@@ -1723,52 +1697,71 @@ Tex Perkins - I Know Y'Know I Know
 The Coup - Always Wear Draws
 The Essence - LTJ Buckem & Herbie Hancock
 The Hook - Stephen Malkmus
-The Joint - Gripper
-The Price Of Reality - Amen
-The Prodigy - Medely
-The Psychedelic Waltons - Wonderland
-The Real Life - Raven Maize
-The Resheads - Combover - 
+! The Prodigy - Medely
+? The Psychedelic Waltons - Wonderland
 The Rotting Strip - Crooked Fingers
 The Score - FC Europa
 The Season - Beanfield
-The Shining - I Wonder How
-The Vines - Miss Jackson
-Things I've Seen - Spooks
-Those Barstard Souls - Train From Terminal Boredom
+? The Vines - Miss Jackson (Outkast cover)
 Time To Bouince - Tom Tom Club
 Tippy Tippy Toe - Crackpot
-Tonjip - Electrometric
-Too Hard To Be Free - Amen
 Too Scandalous - Dangerfield
-Trapazoid - Call Me Your Lover
-Trapazoid - I'm Staying
-Trawl It - Aguagefor
-Trigger - Live For Life
-? Tripod - Banana Rap
-? Tripod - Naked Chef Song
 Trombone - The Yard
 Trumpet Honey - Shin-Ki-Row
-VAST - The Price Of Reality
 Verbal - Amon Tobin
 Visions & Imaginations - Praga Khan
-Visit Venus - The Big Tilt
 Wax Assassins - Baddest DJ
 We Can Identify - Knievel
 Western Battle - Seafood
 Whiteout - Boss Hog
-Wicked Beat Sound System - Brand New Day Remix
-Wicked Beat Sound System - I Don't Want To Know
-Yamamoto - Athletico 
-Yankaw - Nahawa Doumbia
 Youth Group - Country Tour
 
 
-!!!!!!!!!! Songs that aren't on Spotify or even 
+!!!!!!!!!! Songs that aren't on Spotify or even online!
 
-
-
-
+? Trapazoid - Call Me Your Lover
+? Trapazoid - I'm Staying
+? Musique vs U2 - New Year's Dub
+? Nash - 100 Million Ways
+? NuBreed - Sleeping With The Enemy
+! Trigger - Live For Life
+! Mirror - Kaleidiscope
+! Mr. Record Player - Glockenspeil
+! Orbital - Uma
+! Red Rocket - Fast Trains
+? Argonauts - On A Journey
+? Christ Art Museum - New Boy
+? Crazy Baldheads - Recharge
+? Fez Perez - Mountain Of Snow
+? G'rimace - Peppercorn
+? Honeyfix - Momentary Blindness
+? Loki - Not Like You
+? Machine Translations - Poor Circle
+? Nancy Vandal - Clean Out Your Desk Loneliness ...You're Fired
+? Ozomatli - Give It To The Fuckin' DJ
+? Pennidredful - Flipsider
+? Pennidredful - The Ping Pong Delegate
+? Pound System - More Than You Need
+? Pre.Shrunk - Soundpimp
+? Rebecca's Empire - Bad Blood
+? Rebecca's Empire - Big Smoke
+? Rebecca's Empire - Medicine Man
+? Resin Dogs - Nice Mics
+? Resin Dogs - Say Yeah
+? Visit Venus - The Big Tilt
+? Tonjip - Electromatic
+! Yamamoto - Athletico
+? Leftfield, Fatboy Slim - Planet Of The Phatbird
+? Just Add Water - Letters In The Mail
+! Lino - Accident
+? Three Rounds Shy - Loathe
+? [Love] Tattoo - Bass Has Got Me Movin'
+? [Love] Tattoo - Drop Some Drums
+? Matt Walker - Don't Need Sunshine
+? Maya Jupiter - Ordinary Night
+! Melvin Starr - Dandelion
+? Tripod - Banana Rap
+? Tripod - Naked Chef Song
 ? Wilcania Mob - Down River
 ? Da Hool - Wankers On Duty
 ? Rumanastone - The Sound
@@ -1923,7 +1916,7 @@ Youth Group - Country Tour
 ? Mr Blonde - Imogen
 ? Mumonkan - Rap For The Raver
 ? Paul McDermott & Fiona Horne - Shut up/Kiss me
-? Pound System - Know Who You Are
+? The Pound System - Know Who You Are
 ? Gaslight Radio - Sleeveful of Slight
 ? Filler - Goldstar
 ? Superfluid - The Grape
@@ -1938,3 +1931,8 @@ Youth Group - Country Tour
 ? Hypnoblob - Riviera Dub
 ? Mantronik vs EPMD - Strictly Business
 ? New Order - Brutal
+? PJ Harvey - Kamikaze
+? Plasticine - Evel Knievel
+? Pollyanna - Particular People
+? Pollyanna - Rebound Girl
+? Hubris - Not Happy Birthday Again
