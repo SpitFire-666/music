@@ -29,6 +29,10 @@ https://rwffmusic.blogspot.com/2018/12/20-years-ago-whistler-if-i-give-you.html
 
 https://historyofaussiemusic.blogspot.com/2014/05/diana-ah-naid.html
 
+https://www.discogs.com/release/5332628-Various-Beat-The-Drum-Triple-Js-Top-18-Music-Videos
+
+https://www.discogs.com/label/291261-Triple-J?page=1
+
 ## Indie 2000
 
 ## Homebake
