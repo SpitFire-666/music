@@ -19,6 +19,10 @@ https://rageagain.com/#/episode/2022/02/20_night/1
 
 https://rageagain.pjgalbraith.workers.dev/api/data/2022/02/20_night.json
 
+https://rageagain.pjgalbraith.workers.dev/api/data/1999/12/25_night.json
+
+https://rageagain.com/#/episode/1999/12/25/1
+
 ##  Others
 
 https://rateyourmusic.com/release/comp/various-artists/kiss-my-wami-2003/
