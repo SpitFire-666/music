@@ -17,6 +17,13 @@ https://web.archive.org/web/19981205010727/http://www.abc.net.au/triplej/net50/v
 
 https://rageagain.com/#/home
 
+1. Scrape links
+
+2. Gather json URLs, eg https://rageagain.pjgalbraith.workers.dev/api/data/1998/01/03.json
+3. Use PowerShell to dump the .json into CSV
+```powershell
+(iwr "https://rageagain.pjgalbraith.workers.dev/api/data/1998/01/03.json" | ConvertFrom-Json).tracks | Export-Csv -NoClobber -Append -Path ~\desktop\rage1998.csv
+``` 
 https://rageagain.com/#/episode/2022/02/20_night/1
 
 https://rageagain.pjgalbraith.workers.dev/api/data/2022/02/20_night.json
