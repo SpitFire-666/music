@@ -1490,14 +1490,14 @@ Skunkhour - Gold Radiation
 Skunkhour - Home
 Skunkhour - Kick In The Door
 Sleater Kinney - Oh!
-Sleepin' - Sun
-Sleeping In - P76
+Sleepin' - Sun**
+P76 - Sleeping In
 Sleepy Jackson - Glasshouses
 Sleepy Jackson - Good Dancers
 Sleepy Jackson - Miniskirt
 Sleepy Jackson - This Day
 Slipknot - Wait And Bleed
-Sloan - If It Feels Good
+Sloan - If It Feels Good Do It
 Smashing Pumpkins - I Of The Mourning
 Smashing Pumpkins - Perfect
 Smashing Pumpkins - Pug
@@ -1506,7 +1506,7 @@ Smashing Pumpkins - The Everlasting Gaze
 Smashing Pumpkins - Untitled
 Smog - Cold blooded old times
 Smog - Dress Sexy At My Funeral
-Smoke - Cornelius
+Cornelius - Smoke
 Snap to Zero - Beats Is A Drug
 Sneak - Feel Like I Do*
 Sneaker Pimps - Low Five
