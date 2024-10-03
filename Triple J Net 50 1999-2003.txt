@@ -1486,7 +1486,6 @@ Skunkhour - Gold Radiation
 Skunkhour - Home
 Skunkhour - Kick In The Door
 Sleater Kinney - Oh!
-Sleepin' - Sun**
 Sleepy Jackson - Glasshouses
 Sleepy Jackson - Good Dancers
 Sleepy Jackson - Miniskirt
@@ -1593,6 +1592,7 @@ Sugarmoth - Morgan's Just A Friend
 Suggs - I am
 Sum 41 - Fat Lip
 Sum 41 - In Too Deep
+Sun - Sleepin'*
 Sunday's Best - Saccharine
 Sunk Loto - Make You Feel
 Sunk Loto - Sunken Eyes
