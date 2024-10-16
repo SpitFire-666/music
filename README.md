@@ -9,8 +9,8 @@ https://nickwanders.com/projects/ng-spotify-importer/
 https://www.tunemymusic.com/transfer
 
 ## Triple J Net 50 - 1999-2003
-- [All votable songs from Triple J's Net 50 show]([url](https://github.com/SpitFire-666/music/blob/main/Triple%20J%20Net%2050%201999-2003.txt)).
-- Originally from [this list]([url](https://gist.github.com/initials/86e466ee84151fc930234e99564270ac)), but I fixed it up by removing duplicates, formatting all to Artist - Title
+- [List of all votable songs from Triple J's Net 50 show](https://github.com/SpitFire-666/music/blob/main/Triple%20J%20Net%2050%201999-2003.txt)
+- Originally from [this list](https://gist.github.com/initials/86e466ee84151fc930234e99564270ac), but I fixed it up by removing duplicates, formatting all to Artist - Title
 - I also imported the tracks to a [Spotify Playlist](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)
 - Example way back machine link to a Net 50 voting page
 https://web.archive.org/web/19981205010727/http://www.abc.net.au/triplej/net50/vote.htm
