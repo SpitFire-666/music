@@ -37,9 +37,7 @@ https://rageagain.com/#/episode/1999/12/25/1
 
 ##  Others
 
-https://rateyourmusic.com/release/comp/various-artists/kiss-my-wami-2003/
 
-https://rateyourmusic.com/classifiers/Wami+Festival/
 
 https://rwffmusic.blogspot.com/2018/12/20-years-ago-whistler-if-i-give-you.html
 
@@ -48,6 +46,25 @@ https://historyofaussiemusic.blogspot.com/2014/05/diana-ah-naid.html
 https://www.discogs.com/release/5332628-Various-Beat-The-Drum-Triple-Js-Top-18-Music-Videos
 
 https://www.discogs.com/label/291261-Triple-J?page=1
+
+## Kiss my WAMI
+
+https://www.discogs.com/release/9621833-Various-Kiss-My-WAMi-2002
+
+
+https://rateyourmusic.com/release/comp/various-artists/kiss-my-wami-2003/
+
+https://rateyourmusic.com/classifiers/Wami+Festival/
+
+https://www.discogs.com/release/10495116-Various-Kiss-My-Wami-2001
+https://www.discogs.com/release/9755426-Various-Kiss-My-Wami-2000
+https://www.discogs.com/release/14759254-Various-Kiss-My-Wami-99
+https://www.discogs.com/release/14091412-Various-Kiss-My-WAMi-1997
+
+
+https://www.discogs.com/label/1264993-Kiss-My-WAMi?page=1
+
+https://www.discogs.com/release/12204313-Various-Kiss-My-Wami-98
 
 ## Indie 2000
 
