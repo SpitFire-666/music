@@ -2,7 +2,10 @@
 
 ## How to import a .CSV to Spotify
 
+- Note: This will not append to an existing playlist - it will keep creating new ones (even with the same name)
+
 https://nickwanders.com/projects/ng-spotify-importer/
+
 
 ## Export your music library from Spotify
 
