@@ -1,6 +1,57 @@
 # Music Stuff
 
-## How to import a .CSV to Spotify
+
+# Triple J stuff
+
+## 🌏 Triple J Net 50 - 1999-2003
+- [List of all votable songs from Triple J's Net 50 show](https://github.com/SpitFire-666/music/blob/main/Triple%20J%20Net%2050%201999-2003.txt)
+- Originally from [this list](https://gist.github.com/initials/86e466ee84151fc930234e99564270ac), but I fixed it up by removing duplicates, researching and fixing typos, and formatting all to Artist - Title
+- I also imported the tracks to a [Triple J Net 50 1999-2003 Spotify Playlist](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)
+- [Example archived link to a Net 50 voting page](https://web.archive.org/web/19981205010727/http://www.abc.net.au/triplej/net50/vote.htm)
+
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)
+
+
+## 💿 Triple J Albums of the Year
+
+### 1997
+
+### 1998
+
+### 1999
+
+### 2000
+
+### 2001
+
+### 2002
+
+### 2003
+
+## 🌶 Triple J Hottest 100
+
+# 📺 RAGE stuff
+
+## RAGE 1998
+
+## RAGE 1999
+
+## RAGE 2000
+
+## RAGE 2001
+
+## RAGE 2002
+
+## RAGE 2003
+
+## RAGE 1998-2003
+The big kahuna!
+
+
+# Misc
+
+### How to import a .CSV to Spotify
 
 - Note: This will not append to an existing playlist - it will keep creating new ones (even with the same name)
 
@@ -11,12 +62,6 @@ https://nickwanders.com/projects/ng-spotify-importer/
 
 https://www.tunemymusic.com/transfer
 
-## Triple J Net 50 - 1999-2003
-- [List of all votable songs from Triple J's Net 50 show](https://github.com/SpitFire-666/music/blob/main/Triple%20J%20Net%2050%201999-2003.txt)
-- Originally from [this list](https://gist.github.com/initials/86e466ee84151fc930234e99564270ac), but I fixed it up by removing duplicates, formatting all to Artist - Title
-- I also imported the tracks to a [Spotify Playlist](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)
-- Example way back machine link to a Net 50 voting page
-https://web.archive.org/web/19981205010727/http://www.abc.net.au/triplej/net50/vote.htm
 
 
 ## Rage Again
