@@ -41,7 +41,7 @@
 
 | Title | Spotify Playlist | Notes |
 |-------|------------------|-------|
-| RAGE: 1998 | [![RAGE: 1998](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c685f984f95a71c3d19b0f387)](https://open.spotify.com/playlist/05tFqApoEWj5Zv6S4JX8cu)  | asdf|
+| RAGE: 1998 | [![RAGE: 1998](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c685f984f95a71c3d19b0f387)](https://open.spotify.com/playlist/05tFqApoEWj5Zv6S4JX8cu)  | > 2500 tracks |
 | RAGE: 1999 | [![RAGE: 1999](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | asdf|
 | RAGE: 2000 | [![RAGE: 2000](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | asdf|
 | RAGE: 2001 | [![RAGE: 2001](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | asdf|
