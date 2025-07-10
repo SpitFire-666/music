@@ -4,10 +4,9 @@
 # Triple J stuff
 
 ## 🌏 Triple J Net 50 - 1999-2003
-### 🎧 Spotify playlist
-[![Triple J Net 50 - 1999-2003](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)]([https://www.digitalocean.com/products/app-platform](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU))
 
-[Triple J Net 50: 1999-2003](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)
+### 🎧 Spotify playlist
+[![Triple J Net 50 - 1999-2003](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)
 
 - [List of all votable songs from Triple J's Net 50 show](https://github.com/SpitFire-666/music/blob/main/Triple%20J%20Net%2050%201999-2003.txt)
 - Originally from [this list](https://gist.github.com/initials/86e466ee84151fc930234e99564270ac), but I fixed it up by removing duplicates, researching and fixing typos, and formatting all to Artist - Title
@@ -16,44 +15,28 @@
 
 
 
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)
-
-
 ## 💿 Triple J Albums of the Year
 
-### 1997
+| Title | Spotify Playlist | Notes |
+|-------|------------------|-------|
+| 1997 Listener's top 10 albums | asfd | asdf|
+| 1997 Richard Kingsmill's top 10 albums | asdf | 
 
-### 1998
-
-### 1999
-
-### 2000
-
-### 2001
-
-### 2002
-
-### 2003
 
 ## 🌶 Triple J Hottest 100
 
 # 📺 RAGE stuff
 
-## RAGE 1998
+| Title | Spotify Playlist | Notes |
+|-------|------------------|-------|
+| RAGE: 1998 | [![RAGE: 1998](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c685f984f95a71c3d19b0f387)](https://open.spotify.com/playlist/05tFqApoEWj5Zv6S4JX8cu?si=gRK_aGTPTXClm99DGoYFMg)  | asdf|
+| RAGE: 1999 | [![RAGE: 1999](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | asdf|
+| RAGE: 2000 | [![RAGE: 2000](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | asdf|
+| RAGE: 2001 | [![RAGE: 2001](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | asdf|
+| RAGE: 2002 | [![RAGE: 2002](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | asdf|
+| RAGE: 2003 | [![RAGE: 2003](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | asdf|
+| RAGE: 1998-2003 | [![RAGE: 1998-2003](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | Nearly 10,000 tracks! |
 
-## RAGE 1999
-
-## RAGE 2000
-
-## RAGE 2001
-
-## RAGE 2002
-
-## RAGE 2003
-
-## RAGE 1998-2003
-The big kahuna!
 
 
 # Misc
