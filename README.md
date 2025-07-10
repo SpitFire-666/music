@@ -13,17 +13,29 @@
 - I also imported the tracks to a [Triple J Net 50 1999-2003 Spotify Playlist](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)
 - [Example archived link to a Net 50 voting page](https://web.archive.org/web/19981205010727/http://www.abc.net.au/triplej/net50/vote.htm)
 
-
-
 ## 💿 Triple J Albums of the Year
 
 | Title | Spotify Playlist | Notes |
 |-------|------------------|-------|
 | 1997 Listener's top 10 albums | asfd | asdf|
-| 1997 Richard Kingsmill's top 10 albums | asdf | 
-
+| 1997 Richard Kingsmill's top 10 albums | asdf | asdf |
+| 1998 Listener's top 10 albums | asfd | asdf|
+| 1998 Richard Kingsmill's top 10 albums | asdf | asdf |
+| 1999 Listener's top 10 albums | asfd | asdf|
+| 1999 Richard Kingsmill's top 10 albums | asdf | asdf |
+| 2000 Listener's top 10 albums | asfd | asdf|
+| 2000 Richard Kingsmill's top 10 albums | asdf | asdf |
+| 2001 Listener's top 10 albums | asfd | asdf|
+| 2001 Richard Kingsmill's top 10 albums | asdf | asdf |
+| 2002 Listener's top 10 albums | asfd | asdf|
+| 2002 Richard Kingsmill's top 10 albums | asdf | asdf |
+| 2003 Listener's top 10 albums | asfd | asdf|
+| 2003 Richard Kingsmill's top 10 albums | asdf | asdf |
 
 ## 🌶 Triple J Hottest 100
+
+
+
 
 # 📺 RAGE stuff
 
@@ -36,6 +48,9 @@
 | RAGE: 2002 | [![RAGE: 2002](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | asdf|
 | RAGE: 2003 | [![RAGE: 2003](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | asdf|
 | RAGE: 1998-2003 | [![RAGE: 1998-2003](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | Nearly 10,000 tracks! |
+
+
+
 
 
 
