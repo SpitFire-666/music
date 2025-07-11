@@ -42,9 +42,9 @@
 | Title | Spotify Playlist | Notes |
 |-------|------------------|-------|
 | RAGE: 1998 | [![RAGE: 1998](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c685f984f95a71c3d19b0f387)](https://open.spotify.com/playlist/05tFqApoEWj5Zv6S4JX8cu)  | All (available) songs played on Rage during 1998. > 2500 tracks! |
-| RAGE: 1999 | [![RAGE: 1999](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/29bBcia59Ysk26unFocQEi)  | All (available) songs played on Rage during 1999. > 2600 tracks! |
-| RAGE: 2000 | [![RAGE: 2000](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | All (available) songs played on Rage during 2000 |
-| RAGE: 2001 | [![RAGE: 2001](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | All (available) songs played on Rage during 2001 |
+| RAGE: 1999 | [![RAGE: 1999](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cadf2248f142b1b66a223213e)](https://open.spotify.com/playlist/29bBcia59Ysk26unFocQEi)  | All (available) songs played on Rage during 1999. > 2600 tracks! |
+| RAGE: 2000 | [![RAGE: 2000](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c4257948b962f5be84badf716)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | All (available) songs played on Rage during 2000 |
+| RAGE: 2001 | [![RAGE: 2001](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c55b68a50f5cf0c8c0e7847c4)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | All (available) songs played on Rage during 2001 |
 | RAGE: 2002 | [![RAGE: 2002](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | All (available) songs played on Rage during 2002 |
 | RAGE: 2003 | [![RAGE: 2003](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | All (available) songs played on Rage during 2003. > 3000 tracks! |
 | RAGE: 1998-2003 | [![RAGE: 1998-2003](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU)  | All (available) songs played on Rage during 1998 to 2003. Nearly 10,000 tracks! |
