@@ -3,6 +3,13 @@
 
 # Triple J stuff
 
+| Title | Spotify Playlist | Complete List | Notes | 
+|-------|------------------|-------|
+| Triple J - 1999 | https://open.spotify.com/playlist/64ABbVg7VJEOaGJwNSL31B | asfd | All known songs played on Triple J during 1999. Includes Hottest 100, Hottest 100 voting list and playlists scoured from the JJJ website via the wayback machine |
+
+
+
+
 ## 🌏 Triple J Net 50 - 1999-2003
 
 ### 🎧 Spotify playlist
