@@ -1,8 +1,5 @@
 # Music Stuff
 
-
-# Triple J stuff
-
 | Title | Spotify Playlist | Complete List | Notes | 
 |-------|------------------|-------|----|
 | Triple J - 1999 | ![https://open.spotify.com/playlist/64ABbVg7VJEOaGJwNSL31B](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c82559cc0152ec21ed92a3b23) | asfd | All known songs played on Triple J during 1999. Includes Hottest 100, Hottest 100 voting list and playlists scoured from the JJJ website via the wayback machine |
@@ -16,10 +13,6 @@
 | 💿 Triple J - 2001 Listeners' top 10 albums |  |  | Listeners' top 10 albums from that year |
 | 💿 Triple J - 2002 Listeners' top 10 albums |  |  | Listeners' top 10 albums from that year |
 
-
-
-
-# 📺 RAGE stuff
 
 | Title | Spotify Playlist | Notes |
 |-------|------------------|-------|
