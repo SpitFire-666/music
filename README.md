@@ -2,7 +2,8 @@
 
 | Title | Spotify Playlist | Complete List | Notes | 
 |-------|------------------|-------|----|
-| Triple J - 1999 | ![https://open.spotify.com/playlist/64ABbVg7VJEOaGJwNSL31B](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c82559cc0152ec21ed92a3b23) | asfd | All known songs played on Triple J during 1999. Includes Hottest 100, Hottest 100 voting list and playlists scoured from the JJJ website via the wayback machine |
+| Triple J - 1999  | ![https://open.spotify.com/playlist/64ABbVg7VJEOaGJwNSL31B](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c82559cc0152ec21ed92a3b23) | asfd | All known songs played on Triple J during 1999. Includes Hottest 100, Hottest 100 voting list and playlists scoured from the JJJ website via the wayback machine |
+| Triple J - 2000 | WIP | | All known songs played on Triple J during 2000. Includes Hottest 100, Hottest 100 voting list and playlists scoured from the JJJ website via the wayback machine|
 | Triple J Net 50 - 1999-2003 | [![Triple J Net 50 - 1999-2003](https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cef030e6dcdfdb8df9aaddafb)](https://open.spotify.com/playlist/3Il2U91erdkbKLNVqQTyTU) | [Net 50 list](https://github.com/SpitFire-666/music/blob/main/Triple%20J%20Net%2050%201999-2003.txt) | All votable songs from Triple J's Net 50 from 1999-2003. Originally from [this list](https://gist.github.com/initials/86e466ee84151fc930234e99564270ac), but I fixed it up by removing duplicates, researching and fixing typos, and formatting all to Artist - Title |
 | Triple J - The Greatest Australian Songs of the 90s | https://open.spotify.com/playlist/64ABbVg7VJEOaGJwNSL31B | asfd | Voted by Triple J listeners during Aus Music Month 1999. Source: https://web.archive.org/web/20000301151046/http://abc.net.au/triplej/jfiles/greatest_australian_songs.htm |
 | Triple J - Hottest 100 1994 voting list | https://open.spotify.com/playlist/3yqAwshdbiUib98uknAosb | |  |
